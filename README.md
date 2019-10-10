@@ -24,8 +24,6 @@ Featured on Wareable.com as one of the top training apps on the Garmin ConnectIQ
 https://www.wareable.com/garmin/garmin-connect-iq-guide-best-apps-122
 
 
-<h1>UI</h1>
-
 First, you set your desired pace:
 
 ![OnPace1](https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/b47e4d38-ed64-4f54-90ff-6c689017e459/screenshots/6a1bf682-0a33-412a-abf7-ddc749ebbed0)
