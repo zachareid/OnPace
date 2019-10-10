@@ -19,12 +19,3 @@ Finally, a screen will show you your pace, your limits, and the current time:
 
 ![OnPace3](https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/b47e4d38-ed64-4f54-90ff-6c689017e459/screenshots/2061594e-9edb-4719-b424-170e50ce26dc)
 
-
-
-Live here:
-https://apps.garmin.com/en-US/apps/b47e4d38-ed64-4f54-90ff-6c689017e459
-
-
-
-Featured on Wareable.com as one of the top training apps on the Garmin ConnectIQ store of 2019:
-https://www.wareable.com/garmin/garmin-connect-iq-guide-best-apps-122
